@@ -8,7 +8,7 @@ NOTE: This is not using WebGL but rather HTML/SVG elements transformed in 3D spa
 ### You can see a live demo [here](https://ab-3d-card.netlify.app/).
 
 <br><div style="text-align:center;">
-  <a href="http://projects.delimited.io/experiments/d3-threejs" target="\_parent"><img src="./images/readme-img.png" alt="d3 threejs" style="width:450px;"/></a>
+  <a href="https://ab-3d-card.netlify.app/" target="\_parent"><img src="./images/readme-img.png" alt="3d-card" style="width:450px;"/></a>
 </div>
 
 
